@@ -1,2 +1,6 @@
-# Cartorio-EBAC
-Cartório virtual para uso interno da EBAC
+# Cartorio Virtual
+Cartório virtual simples em C.
+Funções:
+*Registrar.
+*Consultar.
+*Deletar.
